@@ -17,5 +17,3 @@ Developed & maintained by Andrew Knight
 ## About
 
 Distributed under the Apache License V2.0. See ``LICENSE`` for more information.
-
-[https://github.com/knightman/skybitz-reportanalyzer](hhttps://github.com/knightman/skybitz-reportanalyzer)
