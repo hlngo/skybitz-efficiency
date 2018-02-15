@@ -1,13 +1,15 @@
-# skybitz-reportanalyzer
+# skybitz-efficiency
 
-Test program I'm creating to do some auto-analysis of reports. More details to some later.
+Test program I'm creating to provide high-level analysis of efficiency metrics using monitoring.
 
 For more information about SkyBitz, please visit [http://www.skybitz.com](http://www.skybitz.com)
 
 ## Release History
 
-* 2017.05 - v0.1
+* 2017.09 - v0.1
     * Initial tests
+* 2018.02
+    * Changed project name and created first commit
 
 ## Credits
 Developed & maintained by Andrew Knight
